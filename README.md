@@ -5,3 +5,6 @@
     <a href="https://www.facebook.com/La-chaine-openclass4all-346728962011907/"><img height="110" src="https://github.com/OusmanHamit/OusmanHamit/blob/main/facebook.png"></a> 
     <a href="https://twitter.com/HassaniOusman/likes"><img height="110" src="https://github.com/OusmanHamit/OusmanHamit/blob/main/twitter.png"></a>
 </p>
+
+
+![Les statistiques](https://github.com/OusmanHamit/github-readme-stats.vercel.app/api?username=OusmanHamit&show_icons=true&hide=["prs","issues","contribs"])
