@@ -7,5 +7,6 @@
 </p>
 
 
-![Les statistiques](https://github.com/github-readme-stats.vercel.app/api?username=OusmanHamit&show_icons=true&hide=["prs","issues","contribs"])
+[![Mes statistiques](https://github-readme-stats.vercel.app/api?username=OusmanHamit)](https://github.com/OusmanHamit/github-readme-stats)
+
 
