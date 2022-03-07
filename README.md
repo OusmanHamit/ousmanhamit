@@ -6,7 +6,7 @@
     <a href="https://twitter.com/HassaniOusman/likes"><img height="110" src="https://github.com/OusmanHamit/OusmanHamit/blob/main/twitter.png"></a>
 </p>
 
+![Ousman's GitHub stats](https://github-readme-stats.vercel.app/api?username=OusmanHamit&hide=contribs,prs)
 
-[![Mes statistiques](https://github-readme-stats.vercel.app/api?username=OusmanHamit)](https://github.com/OusmanHamit/github-readme-stats)
 
 
