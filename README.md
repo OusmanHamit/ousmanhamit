@@ -1,4 +1,4 @@
-# ![OusmanHamit](https://github.com/OusmanHamit/OusmanHamit/blob/main/banner.png)
+# Salut les amis!
 # Me suivre sur 
 <p align='left'>
     <a href="https://www.youtube.com/channel/UCE-613S-bsuLukwHDhnRxIA/?sub_confirmation=1"><img height="110" src="https://github.com/OusmanHamit/OusmanHamit/blob/main/youtube.png"></a>
