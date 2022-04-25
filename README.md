@@ -1,4 +1,5 @@
 # Salut les amis!
+![Ousnan's GitHub stats](https://github-readme-stats.vercel.app/api?username=OusmanHamit&show_icons=true&hide=contribs,prs,prs&theme=radical)
 # Me suivre sur 
 <p align='left'>
     <a href="https://www.youtube.com/channel/UCE-613S-bsuLukwHDhnRxIA/?sub_confirmation=1"><img height="110" src="https://github.com/OusmanHamit/OusmanHamit/blob/main/youtube.png"></a>
@@ -7,7 +8,6 @@
     <a href="https://twitter.com/HassaniOusman/likes"><img height="110" src="https://github.com/OusmanHamit/OusmanHamit/blob/main/twitter.png"></a>
 </p>
 
-![Ousnan's GitHub stats](https://github-readme-stats.vercel.app/api?username=OusmanHamit&show_icons=true&hide=contribs,prs,prs&theme=radical)
 
 
 
